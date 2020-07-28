@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on building websites for Dream x Engineering, cracking Leetcode questions, earning certificates on Udemy, getting ready for my studies @UPenn 
+- 🔭 I’m currently working on building websites for Dream x Engineering, cracking @Leetcode questions, earning certificates on @Udemy, getting ready for my studies in MSE/CIS @Penn 
 - 🤔 I’m looking for help with finding Summer 2021 Software Engineer Internship! 
 - 📫 How to reach me: https://www.linkedin.com/in/meiwenzhou/ 
 - 😄 Pronouns: she/her/hers
