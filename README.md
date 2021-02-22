@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently studying Internet & Web Systems, Computer Vision & Computational Photography, and Big Data Analysis courses as an MSE/CIS student @Penn, building websites for Dream x Engineering (it's out now: http://www.thedreamengineers.com/), cracking @Leetcode questions, aquiring skills in WebDev, Deno and AWS on @Udemy 
-- 🤔 I’m looking for help with finding Summer 2021 Software Engineer Internship! 
+- 🔭 I’m currently studying Machine Learning and Problem Solving as an MSE/CIS student @Penn, cracking @Leetcode and System Design questions, aquiring skills in WebDev, Deno and AWS on @Udemy 
+- 🤔 I will be joining Amazon AWS as a software engineer intern in summer 2021.  
 - 📫 How to reach me: https://www.linkedin.com/in/meiwenzhou/ 
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: Nikon D810 50mm 1.4G user
+- ⚡ Fun fact: Procreate digital art learner, Nikon D810 50mm 1.4G user
