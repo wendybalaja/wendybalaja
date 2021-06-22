@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently studying Machine Learning and Problem Solving as an MSE/CIS student @Penn, cracking @Leetcode and System Design questions, aquiring skills in WebDev, Deno and AWS on @Udemy 
-- 🤔 I will be joining Amazon AWS as a software engineer intern in summer 2021.  
+- 🔭 I’m currently working as a SDE intern @AWSBackup
 - 📫 How to reach me: https://www.linkedin.com/in/meiwenzhou/ 
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: Procreate digital art learner, Nikon D810 50mm 1.4G user
+- ⚡ Fun fact: Procreate digital art learner, Nikon D810 50mm 1.4G user, beginner powerlifter 
