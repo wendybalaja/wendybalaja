@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m a former SDE intern @AWSBackup
 - 📫 How to reach me: https://www.linkedin.com/in/meiwenzhou/ 
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: Procreate digital art learner, Nikon D810 50mm 1.4G user, beginner powerlifter 
+- ⚡ Fun fact: Procreate digital art learner, photographer, beginner powerlifter 
